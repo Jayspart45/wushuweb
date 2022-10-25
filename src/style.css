@@ -11,7 +11,9 @@
 .navbar .image {
     width: 100%;
 }
-
+.Navbar {
+    height: 90vh;
+}
 .Navbar,
 .About,
 .Event {
